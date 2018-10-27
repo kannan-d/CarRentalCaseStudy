@@ -23,7 +23,7 @@ There are six attributes associated with each request made by a customer:
 <li>Status of the request: The final status of the trip, that can be either completed, 
 cancelled by the driver or no cars available<li></ul>
  
-<h3>Note:</h3> For this assignment, only the trips to and from the airport are being considered.
+<b>Note:</b> For this assignment, only the trips to and from the airport are being considered.
 
 <h4>Data Cleaning and Preparation</h4>
 <ul><li>Identify the data quality issues and clean the data so that you can use it for analysis.</li>
