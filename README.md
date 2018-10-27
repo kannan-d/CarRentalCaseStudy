@@ -1,4 +1,4 @@
-<b>CarRentalCaseStudy</br>
+<b>CarRentalCaseStudy</b>
 <sub>Data Science Project on systematically solutions using EDA and data visualisation.</sub>
 
 <h5>Business Understanding</h5>
